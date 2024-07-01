@@ -1,6 +1,6 @@
 "use client";
 import { usePathname } from "next/navigation";
-import { NavButton } from "@/components/ui/nav-button";
+import { NavButton } from "@/components/nav-button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useMedia } from "react-use";
 import { useState } from "react";
